@@ -1,0 +1,21 @@
+{
+  "name": "Flicksify",
+  "short_name": "Flicksify",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#010101",
+  "theme_color": "#010101",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/johmkann/flicksify-assets/9900fa81dc15f9a12350b137a10dae007fa736e0/favicon_300x300.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/johmkann/flicksify-assets/9900fa81dc15f9a12350b137a10dae007fa736e0/favicon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
